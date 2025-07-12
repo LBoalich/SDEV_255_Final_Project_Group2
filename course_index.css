@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    background: url(assets/background.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#title {
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+
+#courseList {
+    margin: 100px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#course {
+    margin: 30px;
+}
+
