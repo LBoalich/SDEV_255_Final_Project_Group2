@@ -53,3 +53,5 @@ function deleteCourse(id) {
     console.warn(`Error: Course with ID '${id}' not found for deletion.`);
   }
 }
+
+// test
