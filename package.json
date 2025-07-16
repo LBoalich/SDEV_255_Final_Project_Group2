@@ -1,0 +1,24 @@
+{
+  "name": "sdev_255_final_project_group2",
+  "version": "1.0.0",
+  "description": "Backend Live Deployment on Render:\r https://sdev-255-final-project-group2-backend.onrender.com",
+  "main": "course.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LBoalich/SDEV_255_Final_Project_Group2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LBoalich/SDEV_255_Final_Project_Group2/issues"
+  },
+  "homepage": "https://github.com/LBoalich/SDEV_255_Final_Project_Group2#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.3"
+  }
+}
