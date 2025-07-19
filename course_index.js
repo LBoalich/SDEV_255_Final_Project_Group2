@@ -1,12 +1,13 @@
 // Get courses from database
-/*
+
 addEventListener("DOMContentLoaded", async function() {
-    const response = await fetch("") //replace with backend url
+    const response = await fetch("https://sdev-255-final-project-group2-backend.onrender.com/api/course_index") 
     const courses = await response.json
 })
-*/
+
 
 // create courses for testing purposes
+/*
 const courses = [
     {
         name: "Website Development", 
@@ -21,6 +22,7 @@ const courses = [
         description: "Use Wordpress and Webflow to understand Content Management Systems."
     }
 ]
+*/
 
 // instantiate blank html
 let html = ""
